@@ -12,3 +12,5 @@ Usuario ingresa numero.
 Si punto 1 se cumple y puntos 2 y 3 tienen coherencia entre sí, se retorna emisor de tarjeta (AMEX, Visa o MasterCard) por string vía consola.
 Si cualquiera de los puntos no se cumple, se retorna 'Invalido' por consola.
 
+
+![foto resultado](https://github.com/IgnacioMujica/Checksum/blob/main/tarjetas.png?raw=true)
